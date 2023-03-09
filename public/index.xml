@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugh&#39;s Website</title>
+        <link>http://example.org/</link>
+        <description>One is all.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hugh.qiu@outlook.com (Renxiang Qiu)</managingEditor>
+            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
