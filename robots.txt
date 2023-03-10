@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://example.org/zh-cn/sitemap.xml
+Sitemap: http://hughyau.github.io/zh-cn/sitemap.xml

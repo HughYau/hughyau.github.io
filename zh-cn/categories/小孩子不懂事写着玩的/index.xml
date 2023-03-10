@@ -1,31 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>小孩子不懂事，写着玩的 - 分类 - Hugh&#39;s Website</title>
-        <link>http://example.org/zh-cn/categories/%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%87%82%E4%BA%8B%E5%86%99%E7%9D%80%E7%8E%A9%E7%9A%84/</link>
+        <link>http://hughyau.github.io/zh-cn/categories/%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%87%82%E4%BA%8B%E5%86%99%E7%9D%80%E7%8E%A9%E7%9A%84/</link>
         <description>小孩子不懂事，写着玩的 - 分类 - Hugh&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hugh.qiu@outlook.com (Renxiang Qiu)</managingEditor>
-            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://example.org/zh-cn/categories/%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%87%82%E4%BA%8B%E5%86%99%E7%9D%80%E7%8E%A9%E7%9A%84/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://hughyau.github.io/zh-cn/categories/%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%87%82%E4%BA%8B%E5%86%99%E7%9D%80%E7%8E%A9%E7%9A%84/" rel="self" type="application/rss+xml" /><item>
     <title>计算主义的发展与人工智能现状</title>
-    <link>http://example.org/zh-cn/%E8%AE%A1%E7%AE%97%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%8E%B0%E7%8A%B6/</link>
+    <link>http://hughyau.github.io/zh-cn/%E8%AE%A1%E7%AE%97%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%8E%B0%E7%8A%B6/</link>
     <pubDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</pubDate>
     <author>Akira</author>
-    <guid>http://example.org/zh-cn/%E8%AE%A1%E7%AE%97%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%8E%B0%E7%8A%B6/</guid>
+    <guid>http://hughyau.github.io/zh-cn/%E8%AE%A1%E7%AE%97%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%8E%B0%E7%8A%B6/</guid>
     <description><![CDATA[一、 引言 早期人们对心智问题的研究，基本是内省的感悟，这个感悟构建的心理学独立于物理世界之外，其哲学背景是一种心身二元论。而二元论的种种观点在]]></description>
 </item>
 <item>
     <title>浅析多重实现论对心脑同一论的反驳</title>
-    <link>http://example.org/zh-cn/%E6%B5%85%E6%9E%90%E5%A4%9A%E9%87%8D%E5%AE%9E%E7%8E%B0%E8%AE%BA%E5%AF%B9%E5%BF%83%E8%84%91%E5%90%8C%E4%B8%80%E8%AE%BA%E7%9A%84%E5%8F%8D%E9%A9%B3/</link>
+    <link>http://hughyau.github.io/zh-cn/%E6%B5%85%E6%9E%90%E5%A4%9A%E9%87%8D%E5%AE%9E%E7%8E%B0%E8%AE%BA%E5%AF%B9%E5%BF%83%E8%84%91%E5%90%8C%E4%B8%80%E8%AE%BA%E7%9A%84%E5%8F%8D%E9%A9%B3/</link>
     <pubDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</pubDate>
     <author>Akira</author>
-    <guid>http://example.org/zh-cn/%E6%B5%85%E6%9E%90%E5%A4%9A%E9%87%8D%E5%AE%9E%E7%8E%B0%E8%AE%BA%E5%AF%B9%E5%BF%83%E8%84%91%E5%90%8C%E4%B8%80%E8%AE%BA%E7%9A%84%E5%8F%8D%E9%A9%B3/</guid>
+    <guid>http://hughyau.github.io/zh-cn/%E6%B5%85%E6%9E%90%E5%A4%9A%E9%87%8D%E5%AE%9E%E7%8E%B0%E8%AE%BA%E5%AF%B9%E5%BF%83%E8%84%91%E5%90%8C%E4%B8%80%E8%AE%BA%E7%9A%84%E5%8F%8D%E9%A9%B3/</guid>
     <description><![CDATA[一、 心脑同一论的发展 早期人们对心智问题的研究，基本是内省的感悟，这个感悟构建的心理学独立于物理世界之外，其哲学背景是一种心身二元论。而二元论]]></description>
 </item>
 <item>
     <title>2022小结</title>
-    <link>http://example.org/zh-cn/2022%E5%B0%8F%E7%BB%93/</link>
+    <link>http://hughyau.github.io/zh-cn/2022%E5%B0%8F%E7%BB%93/</link>
     <pubDate>Tue, 18 Jan 2022 21:29:01 &#43;0800</pubDate>
     <author>Akira</author>
-    <guid>http://example.org/zh-cn/2022%E5%B0%8F%E7%BB%93/</guid>
+    <guid>http://hughyau.github.io/zh-cn/2022%E5%B0%8F%E7%BB%93/</guid>
     <description><![CDATA[大雾重重 时代喧哗造物忙 今天是2022年1月18日，农历腊月十六，早盘的时候，獐子岛——扇贝的神，开盘后直线拉升至涨停，原因是网传汤加火山爆发]]></description>
 </item>
 </channel>

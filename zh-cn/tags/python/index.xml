@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>python - 标签 - Hugh&#39;s Website</title>
-        <link>http://example.org/zh-cn/tags/python/</link>
+        <link>http://hughyau.github.io/zh-cn/tags/python/</link>
         <description>python - 标签 - Hugh&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hugh.qiu@outlook.com (Renxiang Qiu)</managingEditor>
-            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://example.org/zh-cn/tags/python/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://hughyau.github.io/zh-cn/tags/python/" rel="self" type="application/rss+xml" /><item>
     <title>随机抽样的样本量规划——用python求解线性规划</title>
-    <link>http://example.org/zh-cn/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E7%9A%84%E6%A0%B7%E6%9C%AC%E9%87%8F%E8%A7%84%E5%88%92/</link>
+    <link>http://hughyau.github.io/zh-cn/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E7%9A%84%E6%A0%B7%E6%9C%AC%E9%87%8F%E8%A7%84%E5%88%92/</link>
     <pubDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</pubDate>
     <author>Akira</author>
-    <guid>http://example.org/zh-cn/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E7%9A%84%E6%A0%B7%E6%9C%AC%E9%87%8F%E8%A7%84%E5%88%92/</guid>
+    <guid>http://hughyau.github.io/zh-cn/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E7%9A%84%E6%A0%B7%E6%9C%AC%E9%87%8F%E8%A7%84%E5%88%92/</guid>
     <description><![CDATA[问题背景 Y 项目通过投放并收集了 3000+份用户问卷，但由于调研渠道和用户特征有偏，不能完全代表广大网民对内容的喜好特征。所以业务同学提出希望]]></description>
 </item>
 </channel>

@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>总结 - 标签 - Hugh&#39;s Website</title>
-        <link>http://example.org/zh-cn/tags/%E6%80%BB%E7%BB%93/</link>
+        <link>http://hughyau.github.io/zh-cn/tags/%E6%80%BB%E7%BB%93/</link>
         <description>总结 - 标签 - Hugh&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hugh.qiu@outlook.com (Renxiang Qiu)</managingEditor>
-            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Tue, 18 Jan 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://example.org/zh-cn/tags/%E6%80%BB%E7%BB%93/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Tue, 18 Jan 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://hughyau.github.io/zh-cn/tags/%E6%80%BB%E7%BB%93/" rel="self" type="application/rss+xml" /><item>
     <title>2022小结</title>
-    <link>http://example.org/zh-cn/2022%E5%B0%8F%E7%BB%93/</link>
+    <link>http://hughyau.github.io/zh-cn/2022%E5%B0%8F%E7%BB%93/</link>
     <pubDate>Tue, 18 Jan 2022 21:29:01 &#43;0800</pubDate>
     <author>Akira</author>
-    <guid>http://example.org/zh-cn/2022%E5%B0%8F%E7%BB%93/</guid>
+    <guid>http://hughyau.github.io/zh-cn/2022%E5%B0%8F%E7%BB%93/</guid>
     <description><![CDATA[大雾重重 时代喧哗造物忙 今天是2022年1月18日，农历腊月十六，早盘的时候，獐子岛——扇贝的神，开盘后直线拉升至涨停，原因是网传汤加火山爆发]]></description>
 </item>
 </channel>

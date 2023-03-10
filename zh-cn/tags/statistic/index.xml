@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>statistic - 标签 - Hugh&#39;s Website</title>
-        <link>http://example.org/zh-cn/tags/statistic/</link>
+        <link>http://hughyau.github.io/zh-cn/tags/statistic/</link>
         <description>statistic - 标签 - Hugh&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hugh.qiu@outlook.com (Renxiang Qiu)</managingEditor>
-            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://example.org/zh-cn/tags/statistic/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://hughyau.github.io/zh-cn/tags/statistic/" rel="self" type="application/rss+xml" /><item>
     <title>ABtest背后的统计学原理</title>
-    <link>http://example.org/zh-cn/abtest%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86/</link>
+    <link>http://hughyau.github.io/zh-cn/abtest%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86/</link>
     <pubDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</pubDate>
     <author>Akira</author>
-    <guid>http://example.org/zh-cn/abtest%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86/</guid>
+    <guid>http://hughyau.github.io/zh-cn/abtest%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86/</guid>
     <description><![CDATA[总体和样本 在进行研究时，首先需要做的是确立研究对象，这就涉及到总体的确立和样本的选取。 总体（population）： 具有共同的、可观测特征的]]></description>
 </item>
 </channel>

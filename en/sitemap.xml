@@ -2,48 +2,48 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/about/</loc><lastmod>2023-03-08T23:00:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://hughyau.github.io/about/</loc><lastmod>2023-03-09T17:34:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://example.org/zh-cn/about/"
+                        href="http://hughyau.github.io/zh-cn/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/about/"
+                    href="http://hughyau.github.io/about/"
                     /></url><url>
-            <loc>http://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://hughyau.github.io/categories/</loc><lastmod>2023-03-09T17:34:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://example.org/zh-cn/categories/"
+                        href="http://hughyau.github.io/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/categories/"
+                    href="http://hughyau.github.io/categories/"
                     /></url><url>
-            <loc>http://example.org/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://hughyau.github.io/categories/documentation/</loc><lastmod>2023-03-09T17:34:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://example.org/zh-cn/categories/documentation/"
+                        href="http://hughyau.github.io/zh-cn/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/categories/documentation/"
+                    href="http://hughyau.github.io/categories/documentation/"
                     /></url><url>
-            <loc>http://example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://hughyau.github.io/</loc><lastmod>2023-03-09T17:34:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://example.org/zh-cn/"
+                        href="http://hughyau.github.io/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/"
+                    href="http://hughyau.github.io/"
                     /></url><url>
-            <loc>http://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://hughyau.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://example.org/zh-cn/tags/"
+                        href="http://hughyau.github.io/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/tags/"
+                    href="http://hughyau.github.io/tags/"
                     /></url></urlset>
