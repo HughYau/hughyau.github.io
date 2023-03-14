@@ -3,8 +3,8 @@
         <title>所有文章 - Hugh&#39;s Website</title>
         <link>http://hughyau.github.io/zh-cn/posts/</link>
         <description>所有文章 | Hugh&#39;s Website</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hugh.qiu@outlook.com (Renxiang Qiu)</managingEditor>
-            <webMaster>hugh.qiu@outlook.com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://hughyau.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hugh.qiu at outlook dot com (Renxiang Qiu)</managingEditor>
+            <webMaster>hugh.qiu at outlook dot com (Renxiang Qiu)</webMaster><lastBuildDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://hughyau.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>ABtest背后的统计学原理</title>
     <link>http://hughyau.github.io/zh-cn/abtest%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86/</link>
     <pubDate>Wed, 08 Mar 2023 21:29:01 &#43;0800</pubDate>

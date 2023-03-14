@@ -2,7 +2,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information
 
- - Male, born in 2000, Anhui province
+ - He/Him, born in 2000, Anhui province
  -  A lifelong learner and a fatalist
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -26,7 +26,7 @@
 
 - **AIGD——Artificial Intelligence Generated Decision**
 
-	Game Theory; Reinforcement Learning; Multiagent Agent Behaviour
+	Game Theory; Reinforcement Learning; Multi-agent Behaviour
 	- **Graduation Thesis:** Green  Multiplier:  A  Dynamic  Discrete  Choice  Model  of  NEV  Market  and  Fiscal  Policy  Analysis  in  China
 		- Proposed  a  dynamic  discrete  choice  model  to  solve  a  nonlinear  optimization  problem  for  household  car-buying  decision-making  in  Python using vectorization and Numba library, greatly speeding up the high-dimensional computing efficiency from hours to seconds (the code can be found [here](https://github.com/HughYau/Research-with-Python/tree/main/Green%20Multiplier)).
 
@@ -34,7 +34,7 @@
 		- **Awards:** the  1st Prize  of  Excellent  Graduation  Thesis  for  Undergraduates  of  RUC  (top  3%)  and the presented  papers  at  the  8th China  Public  Finance  Forum  and  the  8th Young & Middle-aged Fiscal Scholars Forum etc.
 - **Neuroscience and Cognitive Science**
 	- some naive notes in Chinese: 
-		- [Computationalism Development and the Current State of Artificial Intelligence](https://hughyau.github.io/zh-cn/计算主义的发展与人工智能)
+		- [Computationalism Development and the Current State of Artificial Intelligence](https://hughyau.github.io/zh-cn/计算主义的发展与人工智能现状/)
 		- [An Analysis of Multiple Realization Theory as a Refutation of Mind-Brain Homology](https://hughyau.github.io/zh-cn/浅析多重实现论对心脑同一论的反驳/)		
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
