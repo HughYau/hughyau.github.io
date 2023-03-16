@@ -210,3 +210,48 @@ result[3]
 
 当然，二者都面临样本分布和需求分布如果差异过大，算出的抽样总数会较小的问题，所以源头上还应该在样本收集过程中注意人群的平衡性。
 
+## 附录：三个特征的解决方法
+```python
+count_temp = np.array([810,668,469,161,197,68,64,25,8,7])
+count_all = np.array([350,87,219,148,6,336,35,184,110,3,135,74,105,145,10,44,28,42,42,5,42,42,46,63,4,9,20,16,20,3,11,15,14,21,3,5,4,9,6,1,3,1,2,1,1,4,0,1,2,0])
+gender = np.array([0.51,0.49])
+age = np.array([0.2152,0.2374,0.2187,0.1860,0.1427])
+edu = np.array([0.093,0.403,0.105,0.206,0.193])
+prob = np.kron(age,gender)
+prob = np.kron(prob,edu)
+#three dim
+uplist = count_all
+ageprob = age
+genderprob = gender
+eduprob = edu
+number = len(uplist)
+agenum = len(ageprob)
+gendernum = len(genderprob)
+edunum = len(edu)
+opt_model = plp.LpProblem(name="MIP Model")
+x_vars = {(i,j,k): plp.LpVariable(f'x{i}{j}{k}',lowBound = 0,upBound = uplist[i*gendernum*edunum+j*edunum+k]) for i in range(agenum) for j in range(gendernum) for k in range(edunum) }
+sum_num = plp.lpSum(x_vars[i,j,k] for i in range(agenum) for j in range(gendernum) for k in range(edunum))
+for i in range(agenum):
+  opt_model.addConstraint(
+  plp.LpConstraint(e=plp.lpSum(x_vars[i,j,k] for j in range(gendernum) for k in range(edunum))- ageprob[i]*sum_num,
+                    sense=plp.LpConstraintEQ,
+                    rhs= 0,
+                    name="constraintI{0}".format(i)))
+for j in range(gendernum):
+  opt_model.addConstraint(
+  plp.LpConstraint(e=plp.lpSum(x_vars[i,j,k] for i in range(agenum) for k in range(edunum)) - genderprob[j]*sum_num,
+                    sense=plp.LpConstraintEQ,
+                    rhs= 0,
+                    name="constraintJ{0}".format(j)))
+for k in range(edunum):
+  opt_model.addConstraint(
+  plp.LpConstraint(e=plp.lpSum(x_vars[i,j,k] for i in range(agenum) for j in range(gendernum)) - eduprob[k]*sum_num,
+                    sense=plp.LpConstraintEQ,
+                    rhs= 0,
+                    name="constraintK{0}".format(k)))
+objective = plp.lpSum(x_vars[i,j,k] for i in range(agenum) for j in range(gendernum) for k in range(edunum))
+opt_model.sense = plp.LpMaximize
+opt_model.setObjective(objective)
+opt_model.solve()
+```
+

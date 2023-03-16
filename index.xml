@@ -3,8 +3,8 @@
         <title>Hugh&#39;s Website</title>
         <link>http://hughyau.github.io/</link>
         <description>One is all.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hugh.qiu at outlook dot com (Renxiang Qiu)</managingEditor>
-            <webMaster>hugh.qiu at outlook dot com (Renxiang Qiu)</webMaster>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hugh.qiu at outlook dot com (Hugh)</managingEditor>
+            <webMaster>hugh.qiu at outlook dot com (Hugh)</webMaster>
             <atom:link href="http://hughyau.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
