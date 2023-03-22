@@ -192,3 +192,8 @@ Does human feedback of content during reinforcement learning while training disc
 **如果它看起来像鸭子、游泳像鸭子、叫声像鸭子，那么它可能就是只鸭子。**
 {{< /admonition >}}
 
+{{< admonition type=quote title="后记" open=false >}}
+事实上，3月15日后的三天内，我收到了来自UIUC、UCLA和Cornell的录取，专业都为信息科学和工程学，——都将因为AI的出现而产生大的变革。
+{{< figure src="offer.png" >}}
+这本该是一件先欣喜和然后纠结的事情，感谢写了这篇文章，我只用保留欣喜的部分了，因为对于未来来说，“没关系的，都一样”。
+{{< /admonition >}}
