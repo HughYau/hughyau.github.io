@@ -7,12 +7,11 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
 - **Renmin University of China (RUC)**, School of Information, Beijing, Sep 2018 - Jun 2022
-	- B.S. in Mathematics and Applied Mathematics & B.A. in Public Finance, Minor in Cognitive Science
+	- B.S. in Mathematics and Applied Mathematics & B.A. in Economics, Minor in Cognitive Science
 	- Honors & Awards: 
 		- 2022 Outstanding Graduates in School of Information
-		- 2022 the 1st Prize of Excellent Graduation Thesis for Undergraduates of RUC (top 3%)
-		- 2021 & 2019 the 2nd Prize of Scholarship for Excellent Studies (top 15%)
-		- 2020 the 2nd Prize of Sa Shixuan’s Elite Scholarship in Recognition of Academic Excellence
+		- 2021 & 2019 the Scholarship for Excellent Studies
+		- 2020 the Sa Shixuan’s Elite Scholarship in Recognition of Academic Excellence
 	
 
 
@@ -24,7 +23,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research Interests
 
-- **AIGD——Artificial Intelligence Generated Decision**
+- **Artificial Intelligence Generated Decision**
 
 	Game Theory; Reinforcement Learning; Multi-agent Behaviour
 	- **Graduation Thesis:** Green  Multiplier:  A  Dynamic  Discrete  Choice  Model  of  NEV  Market  and  Fiscal  Policy  Analysis  in  China
@@ -35,11 +34,12 @@
 - **Neuroscience and Cognitive Science**
 	- some naive notes in Chinese: 
 		- [Computationalism Development and the Current State of Artificial Intelligence](https://hughyau.github.io/zh-cn/计算主义的发展与人工智能现状/)
-		- [An Analysis of Multiple Realization Theory as a Refutation of Mind-Brain Homology](https://hughyau.github.io/zh-cn/浅析多重实现论对心脑同一论的反驳/)		
+		- [An Analysis of Multiple Realization Theory as a Refutation of Mind-Brain Homology](https://hughyau.github.io/zh-cn/浅析多重实现论对心脑同一论的反驳/)
+		- [The Future is Coming, Comment after GPT4's Birth](https://www.hughyau.com/zh-cn/gptforfuture/)		
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 
 - ★★★ Python、MySQL、$\LaTeX$
-- ★★☆ SPSS、C/C++、HTML
-- ★☆☆ STATA、CSS、Javascript
+- ★★☆ C/C++、HTML、STATA
+- ★☆☆ CSS、Javascript
 
